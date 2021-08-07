@@ -32,3 +32,20 @@ hard to quickly obtain customer information in case of emergency.
 - based on the above reason, We set out to design an online airline reservation system to provides a modern, flexible
 reservation and inventory management solutions including call Centre, travel agency, internet
 engine, global distribution systems and interlines booking with case study of Rwenzori Airlines.
+# Cost and Features
+# Cost
+ Since the system is open source software.Hence it is free of cost.
+# Features
+ The various features are
+ 1.Enquiry Flight Details
+ 2.Display Flight options and Details 
+ 3.Provide Ticket Booking Solution
+ 4.Online payment facility
+ 5.View Boooking Details and Print Ticket
+ 6.Cancel Ticket if Emergency
+ 7.Trustworthy and Reliable in all aspects
+ 
+ # Defining the system
+ ![system]()
+   
+ 
