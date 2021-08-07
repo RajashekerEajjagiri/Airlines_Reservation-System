@@ -45,7 +45,9 @@ engine, global distribution systems and interlines booking with case study of Rw
  6.Cancel Ticket if Emergency
  7.Trustworthy and Reliable in all aspects
  
- # Defining the system
+ # Defining The System
  ![system](https://github.com/RajashekerEajjagiri/Airlines_Reservation-System/blob/6beda2666bac2e94587ea754dc1ff5ad1b58ea6f/1_Requirements/design.JPG)
    
+ # SWOT Analysis
+    ![swot](https://github.com/RajashekerEajjagiri/Airlines_Reservation-System/blob/76fa6ea685949a6104506b12b03adb159b4ab320/1_Requirements/swot.jpg)
  
