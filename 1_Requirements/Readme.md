@@ -36,14 +36,14 @@ engine, global distribution systems and interlines booking with case study of Rw
 # Cost
  Since the system is open source software.Hence it is free of cost.
 # Features
- The various features are
- 1.Enquiry Flight Details
- 2.Display Flight options and Details 
- 3.Provide Ticket Booking Solution
- 4.Online payment facility
- 5.View Boooking Details and Print Ticket
- 6.Cancel Ticket if Emergency
- 7.Trustworthy and Reliable in all aspects
+ The various features are:
+ - Enquiry Flight Details
+ - Display Flight options and Details 
+ - Provide Ticket Booking Solution
+ - Online payment facility
+ - View Boooking Details and Print Ticket
+ - Cancel Ticket if Emergency
+ - Trustworthy and Reliable in all aspects
  
  # Defining The System
  ![system](https://github.com/RajashekerEajjagiri/Airlines_Reservation-System/blob/6beda2666bac2e94587ea754dc1ff5ad1b58ea6f/1_Requirements/design.JPG)
