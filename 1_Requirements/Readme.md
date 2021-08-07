@@ -48,6 +48,26 @@ engine, global distribution systems and interlines booking with case study of Rw
  # Defining The System
  ![system](https://github.com/RajashekerEajjagiri/Airlines_Reservation-System/blob/6beda2666bac2e94587ea754dc1ff5ad1b58ea6f/1_Requirements/design.JPG)
    
- # SWOT Analysis
+ # SWOT ANALYSIS
  ![swot](https://github.com/RajashekerEajjagiri/Airlines_Reservation-System/blob/76fa6ea685949a6104506b12b03adb159b4ab320/1_Requirements/swot.jpg)
+ # 4W's and 1'H
+ # who
+ Airlines Reservation system helpful for enquiring flight details and boook ticket.
+ # What
+ This does enquiring about flight schedules, ticket bokking in less time.It's also provide online payment facility.
+ # When
+ Passengers need to travel long distance through AirBase,it provides ticket booking facility in short time period(minutes) and saves time. Incase of emergency passenger
+ can cancel thier ticket or reschedule thier ticket.
+ # Where
+ Can be put to use where people(passengers) needs to travel Nationally or Internationally through AirBase.
+ # How
+ steps that works how Airlines Reservation system works
+ 1. new user sign up with their details to create account
+ 2. admin login
+ 3. admin add all scheduled flight details in Database.
+ 4. user once login ,they can access flight details
+ 5. user book ticket
+ 6. view booking details and print
+ 7. if emergency,cancel or reschedule their ticket
+ 8. admin cancel ticket or accept reschedule request.
  
