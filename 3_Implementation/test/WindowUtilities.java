@@ -15,4 +15,5 @@ public class WindowUtilities
 	}
 //UIManager.setLookAndFeel(UIManager.getCrossPlatformLookAndFeelClassName());
 //UIManager.setLookAndFeel( "com.sun.java.swing.plaf.motif.MotifLookAndFeel");
+	
 }
