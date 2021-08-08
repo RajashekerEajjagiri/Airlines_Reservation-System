@@ -1,11 +1,11 @@
 # Testplan and Test Output
 
 # Integration testing(High level testing)
-- loading modulues-passing
-- loading login file-passing
-- loading Enquiry file-passing 
-- loading Reservation file-passing 
--  loading Cancellation file-passing
+- loading modulues- Passing
+- loading login page- Passing
+- loading Enquiry page- Passing 
+- loading Reservation page- Passing 
+-  loading Cancellation page- Passing
 
 # Uint Testing
 - Datatype of customer name(varchar)-compulsary test-Passing
